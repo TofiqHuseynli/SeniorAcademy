@@ -1,0 +1,36 @@
+.carousel-inner{
+    height: 70vh;
+}
+
+.carousel-item{
+    height: 100%;
+}
+
+.carousel-inner img{
+    height: 100%;
+    object-fit: cover;
+}
+
+#about-section{
+    background-color: rgb(214, 210, 245);
+}
+
+.section i.heading-icon{
+    font-size: 30px;
+}
+
+i.gallery-icon{
+    font-size: 30px;
+}
+
+#gallery-section{
+    background-color: rgb(187, 204, 187);
+}
+
+i.form-icon{
+    font-size: 30px;
+}
+
+#form-section{
+    background-color: rgb(230, 219, 239);
+}
